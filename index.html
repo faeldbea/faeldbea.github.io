@@ -24,6 +24,12 @@ layout: compress
             root.setAttribute('class', 'ff');
         }
     </script>
+    <style>
+      #map {
+        width: 500px;
+        height: 400px;
+      }
+    </style>
 </head>
 <body class="body">
 <div class="container">
@@ -77,9 +83,19 @@ layout: compress
         
     </div>
     <!-- /container -->
-    <!-- Start Map -->
-    <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
-    <!-- End Map -->
+    
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var mapDiv = document.getElementById('map');
+        var map = new google.maps.Map(mapDiv, {
+          center: {lat: 44.540, lng: -78.546},
+          zoom: 8
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
+        async defer></script>
 </div>
 <!-- JS -->
 <script src="js/vendors/trianglify.min.js"></script>
