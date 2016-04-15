@@ -80,7 +80,7 @@ layout: compress
             <!-- /cards -->
         </div>
         <h4><center>Visitanos en el Paseo La Plaza - Avenida Corrientes 1660, Buenos Aires. Tel: 011 6320-5310</center></h4>
-        
+        <h4>Mail:rigoletto-curioso@hotmail.com </h4>
     </div>
     <!-- /container -->
     <center>
@@ -92,6 +92,11 @@ layout: compress
           center: {lat: -34.604534, lng: -58.390029},
           zoom: 15
         });
+        var marker = new google.maps.Marker({
+        position:{lat: -34.604534, lng: -58.390029},
+        map: map,
+        title: 'Rigoletto'
+  });
       }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?callback=initMap"
