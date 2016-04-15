@@ -8,9 +8,9 @@ image: "img/a.jpg"
 
 ### Placas grandes
 Tenemos muchos tipos de placas grandes, de macarcas, de paris. etc
-<img src="/img/placa.png" class="fit image">
+<img src="/img/placa.png" class="fit image"  style="max-width: 100%; height: auto;">
 
 ### Placas redondas
 Son muy lindas las placas redondas
-<img src="/img/placaredonda.png" class="fit image">
+<img src="/img/placaredonda.png" class="fit image"  style="max-width: 100%; height: auto;>
 
