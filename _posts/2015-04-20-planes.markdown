@@ -1,10 +1,9 @@
 ---
 title:  "Placas"
 subtitle: "Grandes, chicas, de pipi room, etc."
-author: "Wferr"
+author: "Rigoleto"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:       
 ---
 
 ### Placas grandes
