@@ -1,7 +1,7 @@
 ---
 title:  "Placas"
 subtitle: "Grandes, chicas, de pipi room, etc."
-author: "Rigoleto"
+author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 ---
