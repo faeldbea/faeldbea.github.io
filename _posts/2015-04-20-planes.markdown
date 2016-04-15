@@ -12,5 +12,5 @@ Tenemos muchos tipos de placas grandes, de macarcas, de paris. etc
 
 ### Placas redondas
 Son muy lindas las placas redondas
-<img src="/img/placaredonda.png" class="fit image"  style="max-width: 100%; height: auto;>
+<img src="/img/placaredonda.png" class="fit image"  style="max-width: 100%; height: auto;">
 
