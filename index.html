@@ -74,7 +74,12 @@ layout: compress
             <!-- /cards -->
         </div>
         <h6>Visitanos en el Paseo La Plaza - Avenida Corrientes 1660,Buenos Aires.</h2>
-        <h8>Tel: 011 6320-5310</h2>
+        <h6>Tel: 011 6320-5310</h2>
+        
+        <!-- Start Map -->
+        <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+        <!-- End Map -->
+        
     </div>
     <!-- /container -->
 </div>
@@ -87,9 +92,6 @@ layout: compress
 <script src="js/modern-blog.js"></script>
 
 
-<!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
-<!-- End Map -->
 
 </body>
 </html>
