@@ -1,0 +1,15 @@
+---
+title:  "Placas"
+subtitle: "Grandes, chicas, de pipi room, etc."
+author: "Librerias Rigoletto"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+---
+
+### Placas grandes
+Tenemos muchos tipos de placas grandes, de macarcas, de paris. etc
+<img src="/img/placa.png" class="fit image"  style="max-width: 50%; height: auto;">
+
+### Placas redondas
+Son muy lindas las placas redondas
+<img src="/img/placaredonda.png" class="fit image"  style="max-width: 50%; height: auto;">
