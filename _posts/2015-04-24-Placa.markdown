@@ -18,4 +18,6 @@ Son muy lindas las placas redondas.
 <img src="/img/placaredonda.png" class="fit image"  style="max-width: 50%; height: auto;">
 </center>
 
-Compralas en [mercado libre](http://listado.mercadolibre.com.ar/_CustId_113738581) y visitanos en [Facebook](https://www.facebook.com/rigolettonegocio/).
+This is some text!
+
+Compralas en <font color="blue">[mercado libre](http://listado.mercadolibre.com.ar/_CustId_113738581) </font> y visitanos en <font color="blue"> [Facebook](https://www.facebook.com/rigolettonegocio/) </font>.
