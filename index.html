@@ -30,6 +30,12 @@ layout: compress
         height: 400px;
       }
     </style>
+    <style>
+        mark { 
+            background-color: green;
+            color: white;
+        }
+    </style>
 </head>
 <body class="body">
 <div class="container">
@@ -63,7 +69,7 @@ layout: compress
                     <div class="card__content">
                         <i class="card__btn-close fa fa-times"></i>
                         <div class="card__caption">
-                            <h2 class="card__title"><font color="purple">{{ post.title }}</font></h2>
+                            <h2 class="card__title"><mark>{{ post.title }}</mark></h2>
                             <p class="card__subtitle"><font color="black">{{ post.subtitle }}</font></p>
                         </div>
                         <div class="card__copy">
