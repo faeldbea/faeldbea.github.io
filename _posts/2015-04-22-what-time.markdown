@@ -1,6 +1,6 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
+title:  "Laminas"
+subtitle: "Pinturas y obras de arte"
 author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
