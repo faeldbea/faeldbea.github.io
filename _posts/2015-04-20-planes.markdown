@@ -1,9 +1,9 @@
 ---
-title:  "Placas"
-subtitle: "Grandes, chicas, de pipi room, etc."
+title:  "Libros"
+subtitle: "Antiguos y de colección"
 author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/f.jpg"
 ---
 
 ### Placas grandes
