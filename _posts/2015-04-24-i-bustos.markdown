@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "Artesanias decorativas"
+subtitle: "Bustos, muñecos y figuras"
 author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
