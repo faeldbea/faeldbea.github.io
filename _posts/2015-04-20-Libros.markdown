@@ -5,10 +5,10 @@ author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 ---
-### Placas grandes
-Tenemos muchos tipos de placas grandes, de macarcas, de paris, etc.
+### Libros
+Rigoletto precenta una amplia variedad de libros. Desde antiguos y dificiles de encontrar, hasta libros recien publicados. 
 <center> 
-<img src="/img/placa.png" class="fit image"  style="max-width: 50%; height: auto;">
+<img src="/img/libro.png" class="fit image"  style="max-width: 50%; height: auto;">
 </center>
 
 
