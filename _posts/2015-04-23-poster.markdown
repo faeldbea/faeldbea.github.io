@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "Posters"
+subtitle: "Peliculas, musicos, comics."
 author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
