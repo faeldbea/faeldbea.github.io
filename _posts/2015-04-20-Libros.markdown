@@ -5,12 +5,12 @@ author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 ---
-
 ### Placas grandes
-Tenemos muchos tipos de placas grandes, de macarcas, de paris. etc
+Tenemos muchos tipos de placas grandes, de macarcas, de paris, etc.
+<center> 
 <img src="/img/placa.png" class="fit image"  style="max-width: 50%; height: auto;">
+</center>
 
-### Placas redondas
-Son muy lindas las placas redondas
-<img src="/img/placaredonda.png" class="fit image"  style="max-width: 50%; height: auto;">
+
+Compralas en <a href="http://listado.mercadolibre.com.ar/_CustId_113738581"> <font color="blue"> mercado libre </font></a>  y visitanos en <a href="https://www.facebook.com/rigolettonegocio/"><font color="blue"> Facebook </font></a>.
 
