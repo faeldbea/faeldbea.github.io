@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "Soldaditos"
+subtitle: "De plastico y metal hechos a mano"
 author: "Librerias Rigoletto"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
