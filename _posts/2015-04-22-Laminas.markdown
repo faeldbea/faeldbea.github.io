@@ -14,7 +14,7 @@ En rigoletto tenemos una amplia seleccion de destacadas laminas. Desde arte abst
 </center>
 
 <center>
-<img src="/img/cuadro2.png" class="fit image"  style="max-width: 50%; height: auto;">
+<img src="/img/cudadro2.png" class="fit image"  style="max-width: 50%; height: auto;">
 </center>
 
 Compralas en <a href="http://listado.mercadolibre.com.ar/_CustId_113738581"> <font color="blue"> mercado libre </font></a>  y visitanos en <a href="https://www.facebook.com/rigolettonegocio/"><font color="blue"> Facebook </font></a>.
